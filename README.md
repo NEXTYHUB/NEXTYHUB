@@ -25,8 +25,7 @@
 <div align="center">
   <a href="https://discord.gg/UysJSuMJED" style="font-size:24px; font-weight:bold; text-decoration:none;">Discord Server</a>
   <br><br>
-  <img src="https://storage.ko-fi.com/cdn/useruploads/02498924-ad37-413d-92c3-f9b3f9dc06c9_png_beb315dc-9395-428e-b9da-2fc2e7066166cover.png?v=1ae64430-6ea4-4162-87fe-e3a9d504e200" 
-       height="250px" width="250px">
+  <img src="https://storage.ko-fi.com/cdn/useruploads/02498924-ad37-413d-92c3-f9b3f9dc06c9_png_beb315dc-9395-428e-b9da-2fc2e7066166cover.png?v=1ae64430-6ea4-4162-87fe-e3a9d504e200" height="350px" width="350px">
 </div>
 
 ---
